@@ -1,7 +1,5 @@
 package com.starter.project.representations;
 
-import lombok.Getter;
-import lombok.Setter;
 
 public class GeoCodesResponse {
 
